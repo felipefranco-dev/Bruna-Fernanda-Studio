@@ -180,7 +180,7 @@ ul {
     aside {
         padding-top: 10px;
         display: block;
-        height: 45vh;
+        height: 35vh;
         width: 100%;
         border-top-right-radius: none;
         border-bottom-left-radius: 5%;
@@ -189,7 +189,6 @@ ul {
         position: static;
         border-right: none;
         border-bottom: solid 2px black;
-
     }
 
     section-main {
