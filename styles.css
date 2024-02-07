@@ -53,6 +53,8 @@ section-4 {
 section-3 {
     display: grid;
     grid-template-rows: 300px 300px 300px;
+    justify-content: center;
+    align-items: center;
 }
 
 #text-work-2 {
