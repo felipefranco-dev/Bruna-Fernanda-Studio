@@ -1,8 +1,16 @@
-Este é o meu **primeiro** projeto como um **desenvolvedor front-end**.
+# Buna Fernanda Studio Page
+ Este é meu **primeiro** projeto como um **desenvolvedor front-end** freelancer.
+ <br>
+ <br>
+ A cliente, em seu Instagram concentra a apresentação do seu trabalho com imagens e vídeos no feed e stories, assim precisando de uma página em que pudesse falar um pouco sobre ela e os valores de seus serviços.
 
-A cliente pediu uma página que apresentasse um pouco sobre ela e sobre os valores dos seus serviços, já que seu instagram é voltado a divulgação em imagens e vídeos dos seus trabalhos,
-assim em sua página poderia focar em outras informações e editar com facilidade os valores.
+ **Ferramentas utlizadas:**
+ <br>
+ ° HTML
+ <br>
+ ° CSS
+ <br>
+ 
 
 
-<img src="![Bruna Fernanda Studio](https://github.com/felipefranco-dev/Bruna-Fernanda-Studio/assets/147174853/e9996820-dbed-42ff-9e04-c50be6fc342b)
-" alt="imagem-projeto" width="200px">
+![Bruna Fernanda Studio](https://github.com/felipefranco-dev/Bruna-Fernanda-Studio/assets/147174853/c384c32e-bf4f-427e-ba66-3fa11f2dd8d5)
