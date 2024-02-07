@@ -26,7 +26,6 @@ aside {
     position: sticky;
     top: 0;
     background-color: beige;
-
 }
 
 
@@ -81,7 +80,6 @@ section-3 {
     padding-top: 50px;
     display: grid;
     grid-template-columns: 300px 300px 300px;
-    /* grid-template-columns: 1fr 2fr 1fr; */
 }
 
 .image-logo {
@@ -264,14 +262,7 @@ ul {
     }
 
     .links-aside {
-
         display: none;
-        /* margin-top: 10px;
-        display: flex;
-        justify-content: center;
-        align-items: center;
-        gap: 15px;
-        font-size: 10px; */
     }
 
     h1,
